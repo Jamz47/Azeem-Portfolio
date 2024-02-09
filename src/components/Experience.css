@@ -1,0 +1,29 @@
+.expContainer {
+  display: flex;
+  flex-direction: column;
+  color: rgb(255, 255, 255);
+  margin-left: 300px;
+
+}
+.expContainer h2 {
+    margin-top: 20px;
+    color: yellow;
+
+}
+.specialcour{
+    color: beige;
+}
+.ex-parah{
+    margin-left: 10px;
+    font-style: italic;
+}
+.ed-parah span {
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(227, 120, 184);
+   
+  }
+  .ed-parah {
+    font-size: 18px;
+    font-weight: bold;
+  }

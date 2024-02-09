@@ -1,0 +1,29 @@
+.skillcontainer {
+  display: flex;
+  align-items: center;
+}
+.skillleftside {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  width: 30%;
+  height: 40pc;
+  justify-content: center;
+  align-items: center;
+}
+.skillrightside {
+  width: 30%;
+  margin-left: 50px;
+  font-size: 16px;
+}
+.ul-list {
+  color: white;
+  margin-top: 60px;
+}
+
+.skillslist {
+  width: 80%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+}

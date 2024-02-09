@@ -1,0 +1,40 @@
+.aboutpage {
+  display: flex;
+  align-items: flex-start;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+.abouttilte {
+  color: rgb(255, 255, 255);
+  margin-top: 150px;
+  margin-left: 300px;
+  font-weight: bolder;
+  font-size: 60px;
+  text-shadow: 1px 1px 8px red;
+}
+
+.aboutazeem {
+  height: 350px;
+  width: 300px;
+}
+.aboutparagraph {
+  font-size: 20px;
+  text-align: justify;
+  font-family: 'Poppins', sans-serif;
+  color: rgb(255, 255, 255);
+}
+.aboutparagraph span {
+  font-weight: bold;
+  color: rgb(109, 109, 206);
+
+}
+.aboutparag{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    border-bottom: 1px solid red;
+    margin-left: 50px;
+    margin-top: 30px;
+
+    
+}

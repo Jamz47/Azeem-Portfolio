@@ -1,0 +1,22 @@
+.pro-container{
+    display: flex;
+    flex-direction: column;
+}
+.pro-container h1{
+    display: flex;
+    color: white;
+    justify-content: center;
+    margin-top: 2pc;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+}
+.pro-card{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.pro-card2{
+    margin-top: 20px;
+    border-bottom: 2px dashed yellow; 
+}

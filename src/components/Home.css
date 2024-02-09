@@ -1,0 +1,61 @@
+.hom-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10rem;
+  margin-top: 150px;
+}
+.profile-img {
+  width: 300px;
+  height: 350px;
+  border-radius: 100px;
+}
+.head-title {
+  font-weight: bold;
+  color: white;
+}
+.head-title:hover {
+  color: #3a2596;
+}
+.btns-arrange {
+  font-size: 30px;
+  display: flex;
+  gap: 2rem;
+  margin-top: 30px;
+}
+.disss {
+  justify-content: space-between;
+  display: flex;
+  margin-top: 30px;
+}
+
+/* Buttons colors only */
+
+.fa-icons-git,
+.fa-icons-x {
+  color: #ffffff;
+  cursor: pointer;
+}
+.fa-icons-In {
+  color: #353ba5;
+  cursor: pointer;
+}
+.fa-icons-P {
+  color: red;
+  cursor: pointer;
+}
+.fa-icons-fb {
+  color: #38369a;
+  cursor: pointer;
+}
+
+/* hover */
+
+.fa-icons-git:hover, 
+.fa-icons-x:hover,
+.fa-icons-In:hover,
+.fa-icons-P:hover,
+.fa-icons-fb:hover{
+  color: #ff0000;
+  cursor: pointer;
+}

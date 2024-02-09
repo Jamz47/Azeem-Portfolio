@@ -1,0 +1,32 @@
+.nav-container {
+  background: #683ff0;
+  font-weight: bold;
+  justify-content: space-around;
+}
+.contnaa {
+  color: rgb(255, 255, 255);
+}
+
+.pr-name {
+  font-size: 22px;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+  text-shadow: 3px 2px 2px black;
+}
+.pr-name:hover {
+  color: rgb(165, 239, 37);
+}
+
+.navvbtns {
+  color: white;
+}
+
+.col-image {
+  height: 30px;
+  width: 30px;
+}
+.img-logo {
+  height: 45px;
+  width: 45px;
+  border-radius: 30px;
+}
