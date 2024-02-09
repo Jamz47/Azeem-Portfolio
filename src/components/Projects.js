@@ -14,7 +14,7 @@ const Projects = () => {
   const TacToe = "https://github.com/Jamz47/TicTacToe-React-natice-Game";
   const SocialApp = "https://github.com/Jamz47/FYP";
   const calculatorMobile = "https://github.com/Jamz47/Calculator-React-Native";
-  const myPortfolioLink = 'https://azeemrafique47.netlify.app/';
+  const myPortfolioLink = 'https://github.com/Jamz47/Azeem-Portfolio';
 
   return (
     <div className="pro-container">
