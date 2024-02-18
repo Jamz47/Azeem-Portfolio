@@ -48,7 +48,7 @@ const Home = () => {
     <div className='hom-container'>
         <div><h1 className='head-title'>Hi!</h1>
       <h1 className='head-title'>I am Azeem Rafique</h1>
-      <h1 className='head-title'>MERN & React Native Developer</h1>
+      <h1 className='head-title'>MERN | React.Js Developer</h1>
       <div className='btns-arrange'>
       <FontAwesomeIcon icon={faGithub} className="fa-icons-git" onClick={githubLink}/>
         <FontAwesomeIcon icon={faXTwitter} className="fa-icons-x" onClick={Xtwitter} />
